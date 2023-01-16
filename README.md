@@ -1,4 +1,4 @@
-# Graficador-de-Levas-en-MATLAB
+# Gráficador de Levas en MATLAB
 * Gráfica levas que tomando en cuenta seguidores de tipo Lineal y Radial
 * Se pueden seleccionar movimientos Armónicos Simples, Cicloidales y/o Polinomiales.
 
