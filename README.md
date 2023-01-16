@@ -1,4 +1,4 @@
-# Gráficador de Levas en MATLAB (Cam Grapher in MATLAB)
+# Gráficador de Perfiles de Levas en MATLAB (Cam Profile Grapher in MATLAB)
 
 * Gráfica levas tomando en cuenta seguidores de tipo Lineal y Radial
 * Se pueden seleccionar movimientos Armónicos Simples, Cicloidales y/o Polinomiales.
